@@ -1,1 +1,1 @@
-# llm_project_using_pineconeDB
+# LLM Project Leveraging PineconeDB
